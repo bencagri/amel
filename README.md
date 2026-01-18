@@ -1,9 +1,11 @@
 # AMEL - Adaptive Matching Expression Language
 
-> A general-purpose, typed, extensible Query & Rule DSL engine for evaluating arbitrary JSON payloads.
+A general-purpose, typed, extensible Query & Rule DSL engine for evaluating arbitrary JSON payloads.
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://go.dev/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+![AMEL Hero](hero.jpg)
+
 
 ## Overview
 
