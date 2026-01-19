@@ -61,14 +61,14 @@ func main() {
 
 | Document | Description |
 |----------|-------------|
-| [Getting Started](./docs/getting-started.md) | Installation and basic concepts |
-| [Expression Syntax](./docs/syntax.md) | Complete DSL grammar reference |
-| [Built-in Functions](./docs/functions.md) | All 60+ built-in functions |
-| [Custom Functions](./docs/custom-functions.md) | Writing JavaScript functions |
-| [SQL Compilation](./docs/sql-compilation.md) | Compiling to SQL queries |
-| [MongoDB Compilation](./docs/mongodb-compilation.md) | Compiling to MongoDB queries |
-| [Array Operations](./docs/array-operations.md) | Map, filter, reduce, and more |
-| [API Reference](./docs/api-reference.md) | Complete Go API documentation |
+| [Getting Started](./docs/01-getting-started.md) | Installation and basic concepts |
+| [Expression Syntax](./docs/02-syntax.md) | Complete DSL grammar reference |
+| [Built-in Functions](./docs/03-functions.md) | All 60+ built-in functions |
+| [Custom Functions](./docs/04-custom-functions.md) | Writing JavaScript functions |
+| [Array Operations](./docs/05-array-operations.md) | Map, filter, reduce, and more |
+| [SQL Compilation](./docs/06-sql-compilation.md) | Compiling to SQL queries |
+| [MongoDB Compilation](./docs/07-mongodb-compilation.md) | Compiling to MongoDB queries |
+| [API Reference](./docs/08-api-reference.md) | Complete Go API documentation |
 
 ## Features at a Glance
 
@@ -150,9 +150,4 @@ We welcome contributions! Please see our [Contributing Guidelines](./CONTRIBUTIN
 
 ## License
 
-AMEL is dual-licensed:
-
-- **AGPL-3.0** - For open source projects and personal use
-- **Commercial License** - For proprietary use without AGPL obligations
-
-See [LICENSE](./LICENSE) for details. For commercial licensing inquiries, please contact the maintainers.
+See [LICENSE](./LICENSE) for details.
